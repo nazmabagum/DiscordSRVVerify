@@ -1,0 +1,18 @@
+
+name: DiscordSRVVerify
+version: 1.0.0
+main: com.nazmabagum.discordsrvverify.DiscordSRVVerify
+api-version: '1.21'
+softdepend:
+  - DiscordSRV
+
+commands:
+  discord:
+    description: Generate a Discord account linking code
+    usage: /discord link
+
+permissions:
+  discordsrvverify.link:
+    description: Generate a DiscordSRV linking code
+    default: true
+    
