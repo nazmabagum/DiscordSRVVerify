@@ -3,7 +3,7 @@ plugins {
     id 'java'
 }
 
-group = 'com.nazmabagum'
+group = 'com.plscr'
 version = '1.0.0'
 
 repositories {
