@@ -1,7 +1,7 @@
 
 name: DiscordSRVVerify
 version: 1.0.0
-main: com.nazmabagum.discordsrvverify.DiscordSRVVerify
+main: com.plscr.discordsrvverify.DiscordSRVVerify
 api-version: '1.21'
 softdepend:
   - DiscordSRV
